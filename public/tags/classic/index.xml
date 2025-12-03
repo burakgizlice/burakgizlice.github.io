@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Classic on Burak&#39;s Blog</title>
+    <link>http://localhost:1313/tags/classic/</link>
+    <description>Recent content in Classic on Burak&#39;s Blog</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/classic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great Gatsby</title>
+      <link>http://localhost:1313/inspections/books/book1/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/inspections/books/book1/</guid>
+      <description>&lt;p&gt;Here is my review of The Great Gatsby. It was a tragic story about&amp;hellip;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

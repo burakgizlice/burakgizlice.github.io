@@ -3,6 +3,19 @@ title: "Burak's Blog"
 languageCode: "en-us"
 theme: "PaperMod"
 
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+    - Sitemap
+
+taxonomies:
+  tag: "tags"
+  series: "series"
+
+
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
@@ -13,27 +26,56 @@ minify:
   minifyOutput: true
 
 params:
-  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  env: production
   title: Burak's Blog
-  description: "Welcome to my personal blog"
+  description: "Welcome to my digital garden"
   keywords: [Blog, Portfolio, PaperMod]
   author: Burak Gizlice
-  # PaperMod specific settings
-  defaultTheme: auto # or dark/light
+  defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
-  
+
+  # 1. PROFILE MODE (Clean Homepage)
+  profileMode:
+    enabled: true
+    title: "Burak Gizlice"
+    subtitle: "Computer Engineering Student @ ALKÜ"
+    imageUrl: "https://github.com/burakgizlice.png"
+    imageTitle: "My Profile"
+    imageWidth: 120
+    imageHeight: 120
+    buttons:
+      - name: What I'm Up To Lately 🚀
+        url: "/posts"
+      - name: LinkedIn
+        url: "https://linkedin.com/in/burakgizlice"
+
+# 2. THE MENU (Your specific structure)
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
+    - identifier: updates
+      name: What I'm Up To Lately 🚀
+      url: /posts/
+      weight: 2
+    - identifier: works
+      name: Works 💼
+      url: /works/
+      weight: 3
+    - identifier: search
+      name: Search 🔍
+      url: /search/
+      weight: 1
+    - identifier: series
+      name: Series 📚
+      url: /series/
+      weight: 4
     - identifier: tags
-      name: tags
+      name: Tags 🏷️
       url: /tags/
-      weight: 20
+      weight: 5
+
+      

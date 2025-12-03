@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Learning on Burak&#39;s Blog</title>
+    <link>http://localhost:1313/tags/learning/</link>
+    <description>Recent content in Learning on Burak&#39;s Blog</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 03 Dec 2025 17:12:54 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoyu Ogrendim</title>
+      <link>http://localhost:1313/til/hugoyu-ogrendim/</link>
+      <pubDate>Wed, 03 Dec 2025 17:12:54 +0300</pubDate>
+      <guid>http://localhost:1313/til/hugoyu-ogrendim/</guid>
+      <description>Short summary of the specific problem or fact.</description>
+    </item>
+    <item>
+      <title>Hugoyu Ogrendim2</title>
+      <link>http://localhost:1313/deneme/1/deneme/</link>
+      <pubDate>Wed, 03 Dec 2025 17:12:54 +0300</pubDate>
+      <guid>http://localhost:1313/deneme/1/deneme/</guid>
+      <description>Short summary of the specific problem or fact.</description>
+    </item>
+    <item>
+      <title>Hugoyu Ogrendim2</title>
+      <link>http://localhost:1313/deneme/2/deneme2/</link>
+      <pubDate>Wed, 03 Dec 2025 17:12:54 +0300</pubDate>
+      <guid>http://localhost:1313/deneme/2/deneme2/</guid>
+      <description>Short summary of the specific problem or fact.</description>
+    </item>
+    <item>
+      <title>Hugoyu Ogrendim2</title>
+      <link>http://localhost:1313/til/2022/hugoyu-ogrendim2/</link>
+      <pubDate>Wed, 03 Dec 2025 17:12:54 +0300</pubDate>
+      <guid>http://localhost:1313/til/2022/hugoyu-ogrendim2/</guid>
+      <description>Short summary of the specific problem or fact.</description>
+    </item>
+  </channel>
+</rss>
