@@ -1,0 +1,39 @@
+baseURL: "https://burakgizlice.github.io/"
+title: "Burak's Blog"
+languageCode: "en-us"
+theme: "PaperMod"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Burak's Blog
+  description: "Welcome to my personal blog"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Burak Gizlice
+  # PaperMod specific settings
+  defaultTheme: auto # or dark/light
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
