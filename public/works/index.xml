@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hi on Burak&#39;s Brain Dump</title>
+    <link>http://localhost:1313/works/</link>
+    <description>Recent content in Hi on Burak&#39;s Brain Dump</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Thesis: Distributed Systems</title>
+      <link>http://localhost:1313/works/paper-1/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/paper-1/</guid>
+      <description>&lt;p&gt;This was my final year project focusing on&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/works/internship-report/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/internship-report/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

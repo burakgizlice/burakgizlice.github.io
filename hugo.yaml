@@ -1,5 +1,5 @@
 baseURL: "https://burakgizlice.github.io/"
-title: "Burak's Blog"
+title: "Burak's Brain Dump"
 languageCode: "en-us"
 theme: "PaperMod"
 
@@ -29,30 +29,41 @@ params:
   env: production
   title: Burak's Blog
   description: "Welcome to my digital garden"
-  keywords: [Blog, Portfolio, PaperMod]
   author: Burak Gizlice
   defaultTheme: auto
-  disableThemeToggle: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
 
-  # 1. PROFILE MODE (Clean Homepage)
+  # --- PROFILE MODE UPGRADE ---
   profileMode:
     enabled: true
-    title: "Burak Gizlice"
-    subtitle: "Computer Engineering Student @ ALKÜ"
+    title: "Hi, I'm Burak 👋"
     imageUrl: "https://github.com/burakgizlice.png"
-    imageTitle: "My Profile"
-    imageWidth: 120
-    imageHeight: 120
+    imageTitle: "Burak Gizlice"
+    imageWidth: 150
+    imageHeight: 150
+    
+    # The Typewriter Effect (Cycles through these lines)
+    subtitle: "3rd-year Computer Engineering student @ ALKÜ based in Alanya, Türkiye. Started in frontend, worked in data science for a European research lab, and now I enjoy data systems alongside with the infra that keeps them alive."
+    
+    # Clean Buttons
     buttons:
-      - name: What I'm Up To Lately 🚀
-        url: "/posts"
-      - name: LinkedIn
-        url: "https://linkedin.com/in/burakgizlice"
+      - name: 👔 More Boring Stuff About Me (CV)
+        url: "/about"  
+
+# --- SOCIAL ICONS (Appears below buttons) ---
+  socialIcons:
+    - name: linkedin
+      url: "https://linkedin.com/in/burakgizlice"
+    - name: github
+      url: "https://github.com/burakgizlice"
+    - name: medium
+      url: "https://medium.com/@burakgizlice"
+    - name: email
+      url: "mailto:your-email@example.com"
 
 # 2. THE MENU (Your specific structure)
 menu:

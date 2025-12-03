@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Burak&#39;s Blog</title>
+    <title>Burak&#39;s Brain Dump</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Burak&#39;s Blog</description>
+    <description>Recent content on Burak&#39;s Brain Dump</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Atomic Habits</title>
+      <link>http://localhost:1313/posts/book-clean-code/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-clean-code/</guid>
+      <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thesis Devlog #1: choosing the tech stack</title>
       <link>http://localhost:1313/posts/adsphere-part1/</link>
@@ -75,13 +82,6 @@
       <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Notes on Atomic Habits</title>
-      <link>http://localhost:1313/posts/book-clean-code/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/book-clean-code/</guid>
-      <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Notes on hello</title>
       <link>http://localhost:1313/posts/hello/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
@@ -97,17 +97,24 @@
     </item>
     <item>
       <title>My Thesis: Distributed Systems</title>
-      <link>http://localhost:1313/projects/paper-1/</link>
+      <link>http://localhost:1313/works/paper-1/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/paper-1/</guid>
+      <guid>http://localhost:1313/works/paper-1/</guid>
       <description>&lt;p&gt;This was my final year project focusing on&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/projects/internship-report/</link>
+      <link>http://localhost:1313/works/internship-report/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/internship-report/</guid>
+      <guid>http://localhost:1313/works/internship-report/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Full-Stack Engineer &amp; Community Leader</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I work across the stack: servers, databases, backend, frontend, and the workflow that connects it all.</description>
     </item>
   </channel>
 </rss>

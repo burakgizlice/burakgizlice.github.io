@@ -12,3 +12,6 @@ echo "Selam"
 ```
 
 Bazen `merhaba` dersin
+
+- [X] The Mom Test Synthesis
+- [ ] [Atomic Habits]({{< ref "posts/book-clean-code.md" >}})

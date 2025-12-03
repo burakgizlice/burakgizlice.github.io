@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Here is What I&#39;m Up To Lately on Burak&#39;s Blog</title>
+    <title>Here is What I&#39;m Up To Lately on Burak&#39;s Brain Dump</title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Here is What I&#39;m Up To Lately on Burak&#39;s Blog</description>
+    <description>Recent content in Here is What I&#39;m Up To Lately on Burak&#39;s Brain Dump</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Atomic Habits</title>
+      <link>http://localhost:1313/posts/book-clean-code/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/book-clean-code/</guid>
+      <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Thesis Devlog #1: choosing the tech stack</title>
       <link>http://localhost:1313/posts/adsphere-part1/</link>
@@ -72,13 +79,6 @@
       <link>http://localhost:1313/posts/newest/</link>
       <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/newest/</guid>
-      <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Notes on Atomic Habits</title>
-      <link>http://localhost:1313/posts/book-clean-code/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/book-clean-code/</guid>
       <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
