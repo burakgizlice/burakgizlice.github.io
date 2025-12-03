@@ -64,12 +64,5 @@
       <guid>http://localhost:1313/tags/productivity/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Tr🇹🇷</title>
-      <link>http://localhost:1313/tags/tr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tr/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
