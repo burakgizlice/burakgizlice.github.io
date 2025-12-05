@@ -6,45 +6,6 @@
     <description>Recent content in Hi on Burak&#39;s Brain Dump</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tr/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Thesis Devlog #1: choosing the tech stack</title>
-      <link>http://localhost:1313/posts/adsphere-part1/</link>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adsphere-part1/</guid>
-      <description>&lt;p&gt;I decided to use Go instead of Python because&amp;hellip;&lt;/p&gt;
-&lt;h1 id=&#34;i-like&#34;&gt;I like&lt;/h1&gt;
-&lt;p&gt;some stuff&lt;/p&gt;
-&lt;h2 id=&#34;here&#34;&gt;here&lt;/h2&gt;</description>
-    </item>
-    <item>
-      <title>Thesis Devlog #2: choosing the tech stack</title>
-      <link>http://localhost:1313/posts/adsphere-part2/</link>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adsphere-part2/</guid>
-      <description>&lt;p&gt;I decided to use Go instead of Python because&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thesis Devlog #3: choosing the tech stack</title>
-      <link>http://localhost:1313/posts/adpshere/</link>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adpshere/</guid>
-      <description>&lt;p&gt;I decided to use Go instead of Python because&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Thesis Devlog #3: choosing the tech stack</title>
-      <link>http://localhost:1313/posts/adsphere-part3/</link>
-      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/adsphere-part3/</guid>
-      <description>&lt;p&gt;I decided to use Go instead of Python because&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Testing if new posts are allowed</title>
-      <link>http://localhost:1313/posts/new-post/</link>
-      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/new-post/</guid>
-      <description>&lt;p&gt;This book changed how I view daily increments&amp;hellip;&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

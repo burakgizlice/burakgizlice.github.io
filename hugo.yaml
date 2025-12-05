@@ -36,6 +36,11 @@ params:
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
 
   # --- PROFILE MODE UPGRADE ---
   profileMode:
@@ -85,7 +90,7 @@ menu:
       url: /series/
       weight: 4
     - identifier: tags
-      name: Tags 🏷️
+      name: Topics 📌
       url: /tags/
       weight: 5
 

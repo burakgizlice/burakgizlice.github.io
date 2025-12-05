@@ -1,4 +1,4 @@
 ---
-title: "Tags"
-description: "Here are my tags"
+title: "Topics 📌"
+description: "Here is my personal knowledge graph. Filter content by the topic."
 ---

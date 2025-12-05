@@ -1,5 +1,5 @@
 ---
-title: "Full-Stack Engineer & Community Leader"
+title: "More About Me"
 hidemeta: true
 layout: "single"
 description: "I work across the stack: servers, databases, backend, frontend, and the workflow that connects it all."
