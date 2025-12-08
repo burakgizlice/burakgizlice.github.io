@@ -68,7 +68,7 @@ params:
     - name: medium
       url: "https://medium.com/@burakgizlice"
     - name: email
-      url: "mailto:your-email@example.com"
+      url: "mailto:gizliceburak@gmail.com"
 
 # 2. THE MENU (Your specific structure)
 menu:

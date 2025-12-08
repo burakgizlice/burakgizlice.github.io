@@ -6,6 +6,14 @@
     <description>Recent content in Here is What I&#39;m Up To Lately on Burak&#39;s Brain Dump</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 08 Dec 2025 20:41:29 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TIL: Rotterdam Effect</title>
+      <link>http://localhost:1313/posts/til-rotterdam-effect/</link>
+      <pubDate>Mon, 08 Dec 2025 20:41:29 +0300</pubDate>
+      <guid>http://localhost:1313/posts/til-rotterdam-effect/</guid>
+      <description>Today I Learned about the &amp;#39;Rotterdam Effect&amp;#39;. I had an assignment for the lecture of Social Networks. I and my teammate decided to do this research about Avocados and I scraped the United Nations trade data for all the countries. It seems like Netherlands is in the top 3 most profitting countries without even being a major producer for avocados.</description>
+    </item>
   </channel>
 </rss>
