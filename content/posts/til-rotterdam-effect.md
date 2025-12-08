@@ -1,8 +1,8 @@
 ---
-title: "TIL: Rotterdam Effect"
+title: "TIL: Avocados and The Rotterdam Effect"
 date: 2025-12-08T20:41:29+03:00
 draft: false
-tags: ["til", "social-networks"]
+tags: ["til", "social-networks", "data-analysis"]
 author: ["Burak Gizlice"]
 showToc: true                     # Show Table of Contents?
 TocOpen: false                    # Auto-expand the Table of 
