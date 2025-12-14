@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tag2 on Burak&#39;s Brain Dump</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on Burak&#39;s Brain Dump</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Dec 2025 11:36:51 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog Adpshere Vol1</title>
+      <link>http://localhost:1313/posts/devlog-adpshere-vol1/</link>
+      <pubDate>Sat, 13 Dec 2025 11:36:51 +0300</pubDate>
+      <guid>http://localhost:1313/posts/devlog-adpshere-vol1/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

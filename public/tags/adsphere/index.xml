@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Adsphere on Burak&#39;s Brain Dump</title>
+    <link>http://localhost:1313/tags/adsphere/</link>
+    <description>Recent content in Adsphere on Burak&#39;s Brain Dump</description>
+    <generator>Hugo -- 0.146.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Dec 2025 11:36:51 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/adsphere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🇹🇷 AdSphere&#39;da Bu Hafta: HOH Development Modeli</title>
+      <link>http://localhost:1313/posts/devlog-adpshere-vol1/</link>
+      <pubDate>Sat, 13 Dec 2025 11:36:51 +0300</pubDate>
+      <guid>http://localhost:1313/posts/devlog-adpshere-vol1/</guid>
+      <description>3 hafta önce analiz işlerini bitirmiş, 250&amp;#39;nin üzerinde gereksinimlerimizi çıkartmıştık. Ancak bir türlü hızlanmayan ve hatta başlamayan development biraz canımızı sıkmıştı. Bu hafta bu çarkı döndürmenin bir yolunu bulduk diyebiliriz.</description>
+    </item>
+  </channel>
+</rss>

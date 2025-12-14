@@ -6,6 +6,14 @@
     <description>Recent content in Hi on Burak&#39;s Brain Dump</description>
     <generator>Hugo -- 0.146.0</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 13 Dec 2025 11:36:51 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/tr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🇹🇷 AdSphere&#39;da Bu Hafta: HOH Development Modeli</title>
+      <link>http://localhost:1313/posts/devlog-adpshere-vol1/</link>
+      <pubDate>Sat, 13 Dec 2025 11:36:51 +0300</pubDate>
+      <guid>http://localhost:1313/posts/devlog-adpshere-vol1/</guid>
+      <description>2 Hafta önce analiz işlerini bitirmiş, 250&amp;#39;nin üzerinde gereksinimlerimizi çıkartmıştık. Ancak bir türlü hızlanmayan ve hatta başlamayan development biraz canımızı sıktı. Bu hafta bu çarkı döndürmenin bir yolunu bulduk diyebiliriz.</description>
+    </item>
   </channel>
 </rss>

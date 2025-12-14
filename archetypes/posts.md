@@ -1,12 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
 # weight: 1                       # 1 means pin to top, remove to unpin
 # aliases: ["/first"]             # Redirects old URLs to this post
 tags: ["Tag1", "Tag2"]
-categories: ["Category1"]
-author: ["Me"]
+author: ["Burak Gizlice"]
 showToc: true                     # Show Table of Contents?
 TocOpen: false                    # Auto-expand the Table of Contents?
 hidemeta: false                   # Hide date/author/read-time?
@@ -24,7 +23,7 @@ cover:
     alt: "<alt text>"             # Alt text
     caption: "<text>"             # Display caption under cover
     relative: false               # To use relative path for cover image, set this to true
-    hidden: true                  # Hide on the single page, but show on list?
+    hidden: false                 # Hide on the single page, but show on list?
 series: ["Series Name"]           # Groups posts together (e.g., "DevLogs")
 ---
 
